@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QuadradoEAoCubo/1.0.0": {
+        "runtime": {
+          "QuadradoEAoCubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuadradoEAoCubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

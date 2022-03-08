@@ -1,0 +1,16 @@
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.exe
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.deps.json
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.runtimeconfig.json
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.runtimeconfig.dev.json
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\bin\Debug\net5.0\ref\SomaDeParesConsecutivos.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.pdb
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.csproj.AssemblyReference.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.AssemblyInfoInputs.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.AssemblyInfo.cs
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\ref\SomaDeParesConsecutivos.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.pdb
+C:\Projetos\LuizJedi\Gft-start-4-net\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.genruntimeconfig.cache

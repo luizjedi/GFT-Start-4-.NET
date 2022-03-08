@@ -1,0 +1,16 @@
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\bin\Debug\net5.0\JogoDeRPG.exe
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\bin\Debug\net5.0\JogoDeRPG.deps.json
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\bin\Debug\net5.0\JogoDeRPG.runtimeconfig.json
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\bin\Debug\net5.0\JogoDeRPG.runtimeconfig.dev.json
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\bin\Debug\net5.0\JogoDeRPG.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\bin\Debug\net5.0\ref\JogoDeRPG.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\bin\Debug\net5.0\JogoDeRPG.pdb
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.csproj.AssemblyReference.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.AssemblyInfoInputs.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.AssemblyInfo.cs
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.csproj.CoreCompileInputs.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\ref\JogoDeRPG.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.pdb
+C:\Projetos\LuizJedi\Gft-start-4-net\JogoDeRPG\obj\Debug\net5.0\JogoDeRPG.genruntimeconfig.cache
