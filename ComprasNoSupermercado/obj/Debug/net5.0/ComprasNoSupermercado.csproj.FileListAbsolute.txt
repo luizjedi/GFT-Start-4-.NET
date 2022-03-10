@@ -1,0 +1,16 @@
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.exe
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.deps.json
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.runtimeconfig.json
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.runtimeconfig.dev.json
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\bin\Debug\net5.0\ref\ComprasNoSupermercado.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\bin\Debug\net5.0\ComprasNoSupermercado.pdb
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.csproj.AssemblyReference.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.AssemblyInfoInputs.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.AssemblyInfo.cs
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.csproj.CoreCompileInputs.cache
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ref\ComprasNoSupermercado.dll
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.pdb
+C:\Projetos\LuizJedi\Gft-start-4-net\ComprasNoSupermercado\obj\Debug\net5.0\ComprasNoSupermercado.genruntimeconfig.cache
