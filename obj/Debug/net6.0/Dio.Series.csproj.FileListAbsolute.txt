@@ -1,0 +1,15 @@
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\bin\Debug\net6.0\Dio.Series.exe
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\bin\Debug\net6.0\Dio.Series.deps.json
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\bin\Debug\net6.0\Dio.Series.runtimeconfig.json
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\bin\Debug\net6.0\Dio.Series.dll
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\bin\Debug\net6.0\Dio.Series.pdb
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.AssemblyReference.cache
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.dll
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\refint\Dio.Series.dll
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.pdb
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\Dio.Series.genruntimeconfig.cache
+E:\Projects\Gft-start-4-net\AppCadastroDeSeries\Dio.Series\obj\Debug\net6.0\ref\Dio.Series.dll
